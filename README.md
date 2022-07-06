@@ -8,9 +8,9 @@ Usage
 
 To start orion::
 
-    `
-        cd orion
-        make up
-    `
+```
+    cd orion
+    make up
+```
 
 To change configuration edit docker-compose.yml and .env.
